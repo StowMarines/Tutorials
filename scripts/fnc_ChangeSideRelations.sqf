@@ -1,7 +1,7 @@
 /*
 Title: Change Side Relations
 Author: [SM]BJS
-As seen in: N/A
+As seen in: https://youtu.be/84REVNcrToA
 
 =============================================================================================
 --Sides--
