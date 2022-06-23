@@ -1,7 +1,7 @@
 /*
 Title: Change Unit Rating
 Author: [SM]BJS
-As seen in: N/A
+As seen in: https://youtu.be/GZtCIwjpK7o
 
 =============================================================================================
 --Values--
