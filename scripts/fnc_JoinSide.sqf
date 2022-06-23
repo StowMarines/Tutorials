@@ -1,7 +1,7 @@
 /*
 Title: Join Side
 Author: [SM]BJS
-As seen in: N/A
+As seen in: https://youtu.be/y81Axv0Nj9U
 
 =============================================================================================
 --Sides--
