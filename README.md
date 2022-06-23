@@ -2,8 +2,7 @@
 GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
 ## Links
 ### Primary Links
-YouTube Channel: https://www.youtube.com/c/SMBJS 
-
+YouTube Channel: https://www.youtube.com/c/SMBJS  
 Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
 
 ### Video Links
