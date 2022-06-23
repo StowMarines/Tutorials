@@ -1,5 +1,5 @@
 # Tutorials
-GitHub Repo for the YouTube tutorials on [[SM]BJS YouTube channel]([url](https://www.youtube.com/c/SMBJS))
+GitHub Repo for the YouTube tutorials on [SMBJS YouTube channel]([url](https://www.youtube.com/c/SMBJS))
 ## Links
 ### Primary
 - YouTube Channel: https://www.youtube.com/c/SMBJS  
