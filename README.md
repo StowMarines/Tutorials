@@ -1,5 +1,5 @@
 # Tutorials
-GitHub Repo for the YouTube tutorials on [SMBJS]([url](https://www.youtube.com/c/SMBJS)) YouTube channel
+GitHub Repo for the YouTube tutorials on [SMBJS](https://www.youtube.com/c/SMBJS) YouTube channel
 
 ## Primary Links
 - YouTube Channel: https://www.youtube.com/c/SMBJS  
@@ -11,7 +11,7 @@ GitHub Repo for the YouTube tutorials on [SMBJS]([url](https://www.youtube.com/c
 - How to add the Vanilla Arsenal: https://youtu.be/z3uovS-gYNY  
 - How to add the Ace Arsenal: https://youtu.be/OFxozTL8YJI
 
-### [Side Manipulation:](https://bit.ly/3NjTZK6) 
+### Side Manipulation:
 [Playlist Link](https://bit.ly/3NjTZK6)
 - Part 1 | Getting Player and AI sides: https://youtu.be/nweJW6T0sw8
 - Part 2 | Changing Player and AI Sides: 
