@@ -17,8 +17,8 @@ GitHub Repo for the YouTube tutorials on [SMBJS](https://www.youtube.com/c/SMBJS
 - Part 2 | Changing Player and AI Sides (Coming Soon)
 
 ### Misc
-- Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
+- [Auto Rotation Script](https://youtu.be/r7Yft6GnNCY)
 
 ## 3DEN Editor Tutorials
-- Missing Required Addons Fix (Optional Mods used): https://youtu.be/TRuLVeVfs3U
-- How to use Random Spawn Points: https://youtu.be/pUKbFTo51z8
+- [Missing Required Addons Fix (Optional Mods used)](https://youtu.be/TRuLVeVfs3U)
+- [How to use Random Spawn Points](https://youtu.be/pUKbFTo51z8)
