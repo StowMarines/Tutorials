@@ -2,7 +2,8 @@
 GitHub Repo for the YouTube tutorials on [SMBJS](https://www.youtube.com/c/SMBJS) YouTube channel
 
 ## Primary Links
-- [YouTube Channel ](https://www.youtube.com/c/SMBJS )
+- [Buy me a coffee (PayPal.me)](https://www.paypal.com/paypalme/beaujacksaunders)
+- [YouTube Channel](https://www.youtube.com/c/SMBJS )
 - [Arma 3 Tutorials Playlist](https://bit.ly/3OwHYSL)  
 - [Arma Unit Website (StowMarines)](https://www.stowmarines.co.uk/)
 
