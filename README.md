@@ -12,7 +12,7 @@ GitHub Repo for the YouTube tutorials on [SMBJS]([url](https://www.youtube.com/c
 - How to add the Ace Arsenal: https://youtu.be/OFxozTL8YJI
 
 ### [Side Manipulation:](https://bit.ly/3NjTZK6) 
-PlayList: https://bit.ly/3NjTZK6
+[Playlist Link](https://bit.ly/3NjTZK6)
 - Part 1 | Getting Player and AI sides: https://youtu.be/nweJW6T0sw8
 - Part 2 | Changing Player and AI Sides: 
 
