@@ -20,6 +20,8 @@ hint format ["%1", _str];
 
 =============================================================================================
 --Zeus Enhanced--
+Required Addons: 
+- Zeus Enhanced: https://steamcommunity.com/workshop/filedetails/?id=1779063631
 
 You can copy and paste this into any unit init box in zeus (with Zeus Enhanced):
 side _this;
