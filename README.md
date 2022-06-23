@@ -19,6 +19,6 @@ PlayList: https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
 ### Misc
 - Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
 
-### 3DEN Editor Tutorials
+## 3DEN Editor Tutorials
 - Missing Required Addons Fix (Optional Mods used): https://youtu.be/TRuLVeVfs3U
 - How to use Random Spawn Points: https://youtu.be/pUKbFTo51z8
