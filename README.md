@@ -12,8 +12,8 @@ GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
 - How to add the Ace Arsenal: https://youtu.be/OFxozTL8YJI
 
 #### Side Manipulation: 
-https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
-- 1) Getting player and AI sides: https://youtu.be/nweJW6T0sw8
+PlayList: https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
+- Part 1 | Getting player and AI sides: https://youtu.be/nweJW6T0sw8
 
 #### Misc
 - Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
