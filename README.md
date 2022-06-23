@@ -2,9 +2,9 @@
 GitHub Repo for the YouTube tutorials on [SMBJS](https://www.youtube.com/c/SMBJS) YouTube channel
 
 ## Primary Links
-- YouTube Channel: https://www.youtube.com/c/SMBJS  
+- [YouTube Channel ](https://www.youtube.com/c/SMBJS )
 - [Arma 3 Tutorials Playlist](https://bit.ly/3OwHYSL)  
-- Arma Unit (StowMarines): https://www.stowmarines.co.uk/
+- [Arma Unit Website (StowMarines)](https://www.stowmarines.co.uk/)
 
 ## Scripting Tutorials
 ### Arsenal
