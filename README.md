@@ -13,8 +13,8 @@ GitHub Repo for the YouTube tutorials on [SMBJS]([url](https://www.youtube.com/c
 
 #### Side Manipulation: 
 PlayList: https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
-- Part 1 | Getting player and AI sides: https://youtu.be/nweJW6T0sw8
-- 
+- Part 1 | Getting Player and AI sides: https://youtu.be/nweJW6T0sw8
+- Part 2 | Changing Player and AI Sides: 
 
 #### Misc
 - Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
