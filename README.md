@@ -4,7 +4,7 @@ GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
 ### Primary Links
 YouTube Channel: https://www.youtube.com/c/SMBJS 
 
-YouTube Tutorials Playlist: https://bit.ly/3OwHYSL
+Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
 
 ### Video Links
 Vanilla Arsenal Tutorial: https://youtu.be/z3uovS-gYNY
