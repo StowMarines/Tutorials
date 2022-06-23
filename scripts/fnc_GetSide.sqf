@@ -1,7 +1,7 @@
 /*
 Title: Get Unit Side
 Author: [SM]BJS
-As seen in: N/A
+As seen in: https://youtu.be/nweJW6T0sw8
 
 =============================================================================================
 --Vanilla--
