@@ -1,10 +1,11 @@
 # Tutorials
 GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
 ## Links
-### Primary Links
-YouTube Channel: https://www.youtube.com/c/SMBJS  
-Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
+### Primary
+- YouTube Channel: https://www.youtube.com/c/SMBJS  
+- Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
+- Arma Unit (StowMarines): https://www.stowmarines.co.uk/
 
-### Video Links
-Vanilla Arsenal Tutorial: https://youtu.be/z3uovS-gYNY  
-Random Spawn Points Tutorial: https://youtu.be/pUKbFTo51z8
+### Videos
+- Vanilla Arsenal Tutorial: https://youtu.be/z3uovS-gYNY  
+- Random Spawn Points Tutorial: https://youtu.be/pUKbFTo51z8
