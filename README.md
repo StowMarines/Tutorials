@@ -7,5 +7,5 @@ YouTube Channel: https://www.youtube.com/c/SMBJS
 Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
 
 ### Video Links
-Vanilla Arsenal Tutorial: https://youtu.be/z3uovS-gYNY
+Vanilla Arsenal Tutorial: https://youtu.be/z3uovS-gYNY  
 Random Spawn Points Tutorial: https://youtu.be/pUKbFTo51z8
