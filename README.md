@@ -1,12 +1,12 @@
 # Tutorials
 GitHub Repo for the YouTube tutorials on [SMBJS]([url](https://www.youtube.com/c/SMBJS)) YouTube channel
-## Links
-### Primary
+
+## Primary Links
 - YouTube Channel: https://www.youtube.com/c/SMBJS  
 - Arma 3 Tutorials Playlist: https://bit.ly/3OwHYSL
 - Arma Unit (StowMarines): https://www.stowmarines.co.uk/
 
-### Scripting Tutorials
+## Scripting Tutorials
 #### Arsenal
 - How to add the Vanilla Arsenal: https://youtu.be/z3uovS-gYNY  
 - How to add the Ace Arsenal: https://youtu.be/OFxozTL8YJI
@@ -16,7 +16,7 @@ PlayList: https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
 - Part 1 | Getting Player and AI sides: https://youtu.be/nweJW6T0sw8
 - Part 2 | Changing Player and AI Sides: 
 
-#### Misc
+### Misc
 - Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
 
 ### 3DEN Editor Tutorials
