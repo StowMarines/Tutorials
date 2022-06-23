@@ -1,5 +1,5 @@
 # Tutorials
-GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
+GitHub Repo for the YouTube tutorials on [[SM]BJS YouTube channel]([url](https://www.youtube.com/c/SMBJS))
 ## Links
 ### Primary
 - YouTube Channel: https://www.youtube.com/c/SMBJS  
@@ -14,6 +14,7 @@ GitHub Repo for the YouTube tutorials on [SM]BJS YouTube channel
 #### Side Manipulation: 
 PlayList: https://youtube.com/playlist?list=PLmqz15IOHyduxvAoPNPTSWalnlNR5F-sw
 - Part 1 | Getting player and AI sides: https://youtu.be/nweJW6T0sw8
+- 
 
 #### Misc
 - Auto Rotation Script: https://youtu.be/r7Yft6GnNCY
